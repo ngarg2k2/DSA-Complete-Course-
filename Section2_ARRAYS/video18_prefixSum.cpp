@@ -11,7 +11,7 @@ int main()
     preArr[0] = arr[0];
     for (int i = 1; i < n; i++)
     {
-        preArr[i] = preArr[i- 1] + arr[i];
+        preArr[i] = preArr[i - 1] + arr[i];
     }
 
     for (int i = 0; i < n; i++)
@@ -32,10 +32,10 @@ int main()
 
             sum = i > 0 ? preArr[j] - preArr[i - 1] : preArr[j];
 
-            cout <<sum<<", ";
+            cout << sum << ", ";
             maxSum = max(maxSum, sum);
         }
-        cout<<endl;
+        cout << endl;
     }
     cout << "Max Sum: " << maxSum << endl;
 }
