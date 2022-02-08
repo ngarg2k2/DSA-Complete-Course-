@@ -11,7 +11,7 @@ void swap(int *a, int *b)
 vector<int> kRotate(vector<int> a, int k)
 {
     // your code  goes here
-    vector<int> b[a.size()];
+    // vector<int> b[a.size()];
     while (k--)
     {
 
