@@ -1,22 +1,24 @@
-#include <bits/stdc++.h>
-using namespace std;
+// DOUBT
 
-pair<int, int> closestSum(vector<int> arr, int x)
-{
-    // your code goes here
-}
+// #include <bits/stdc++.h>
+// using namespace std;
 
-int main()
-{
-    vector<int> arr(6);
+// pair<int, int> closestSum(vector<int> arr, int x)
+// {
+//     // your code goes here
+// }
 
-    for (int i = 0; i < arr.size(); i++)
-    {
-        cin >> arr[i];
-    }
+// int main()
+// {
+//     vector<int> arr(6);
 
-    int x;
-    cin >> x;
+//     for (int i = 0; i < arr.size(); i++)
+//     {
+//         cin >> arr[i];
+//     }
 
-    closestSum(arr, x);
-}
+//     int x;
+//     cin >> x;
+
+//     closestSum(arr, x);
+// }
