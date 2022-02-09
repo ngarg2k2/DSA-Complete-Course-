@@ -1,0 +1,1 @@
+{"name":"Local: video27_insertionSort","url":"d:\\DSA Zero to Hero\\Section3_SORTING\\video27_insertionSort.cpp","tests":[{"id":1644381000538,"input":"4\n1 6 5 2","output":"1 2 5 6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\DSA Zero to Hero\\Section3_SORTING\\video27_insertionSort.cpp","group":"local","local":true}
