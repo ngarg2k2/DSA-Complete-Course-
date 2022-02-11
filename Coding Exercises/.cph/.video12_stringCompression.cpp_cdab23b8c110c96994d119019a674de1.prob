@@ -1,0 +1,1 @@
+{"name":"Local: video12_stringCompression","url":"d:\\DSA Zero to Hero\\Coding Exercises\\video12_stringCompression.cpp","tests":[{"id":1644588742818,"input":"aabbbddc","output":"a,2\nb,3\nd,2\nc,1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\DSA Zero to Hero\\Coding Exercises\\video12_stringCompression.cpp","group":"local","local":true}
