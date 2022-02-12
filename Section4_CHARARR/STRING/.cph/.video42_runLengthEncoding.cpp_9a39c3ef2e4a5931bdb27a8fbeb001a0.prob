@@ -1,0 +1,1 @@
+{"name":"Local: video42_runLengthEncoding","url":"d:\\DSA Zero to Hero\\Section4_CHARARR\\STRING\\video42_runLengthEncoding.cpp","tests":[{"id":1644644896593,"input":"","output":"a3b2c2d2e2\nabcd"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\DSA Zero to Hero\\Section4_CHARARR\\STRING\\video42_runLengthEncoding.cpp","group":"local","local":true}
