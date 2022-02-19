@@ -1,4 +1,4 @@
-// 1 2 3 4   start row->(srt col to end col)
+// 1 2 3 4   start row-> (srt col to end col)
 // 5 6 7 8   end col->(srt row+1 end row)
 // 9 10 11 12 end row->(end col-1 to srt col )
 // 13 14 15 16 srt col->(end row-1 to srt row+1)
